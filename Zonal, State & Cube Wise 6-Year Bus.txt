@@ -1,0 +1,136 @@
+Zonal, State & Cube Wise 6-Year Business Analysis
+
+Professional Business Insight Report
+
+1. Executive Summary
+
+The six-year business analysis evaluates revenue distribution across zones, states, and retail channels (cube types). The analysis identifies key revenue drivers, geographic concentration of sales, and channel performance to support strategic expansion and operational planning.
+
+The findings indicate that North Zone is the dominant revenue contributor, driven largely by high-performing states such as Delhi, Punjab, and Haryana. In terms of retail channels, Exclusive Brand Outlets (EBO) generate the majority of sales, demonstrating strong brand-led retail performance.
+
+2. Zonal Performance Analysis
+Zone	Business (Lacs)	Contribution
+North Zone	26487.07	Very High
+West Zone	3031.38	Moderate
+Central Zone	1442.09	Moderate
+South Zone	922.96	Low
+East Zone	922.03	Low
+North East Zone	631.01	Very Low
+ZX (Pan India)	3129.03	Moderate
+Key Insights
+
+North Zone accounts for the majority of the company’s business, indicating strong market penetration and customer demand in northern markets.
+
+West Zone shows moderate performance, suggesting growth opportunities in commercial cities.
+
+South, East, and North East zones remain under-penetrated, indicating potential for expansion strategies.
+
+Strategic Interpretation
+
+The company currently has regional revenue concentration risk, with a large dependency on the North Zone. Diversification of market presence across other zones would improve long-term stability.
+
+3. State Wise Performance Analysis
+Top Revenue Generating States
+Rank	State	Zone	Sales (Lacs)
+1	Delhi	North	7084.88
+2	Punjab	North	5268.72
+3	Haryana	North	3659.01
+4	Pan India	ZX	3129.03
+5	UP (West)	North	2982.23
+Key Insights
+
+Delhi is the primary revenue hub, reflecting strong urban demand and retail presence.
+
+Punjab and Haryana contribute significantly, indicating strong brand loyalty in these markets.
+
+UP (West and East) together represent a major business cluster with large growth potential due to population size.
+
+Strategic Interpretation
+
+The concentration of revenue within a few northern states suggests the company’s brand awareness and distribution network are strongest in this region.
+
+To reduce geographic dependency, expansion into emerging consumption markets should be considered.
+
+4. Cube (Retail Channel) Analysis
+
+Cube refers to sales channels or store formats.
+
+Channel	Sales (Lacs)
+EBO (Exclusive Brand Outlet)	17400.32
+SIS (Shop in Shop)	8754.01
+Others	6452.00
+LFS	3341.25
+MBO (Multi Brand Outlet)	618.00
+Key Insights
+
+EBO contributes the highest revenue share, indicating the brand’s own retail stores are the most successful sales channel.
+
+SIS channel also performs strongly, leveraging partnerships with larger retail chains.
+
+MBO channel contributes very little, indicating low distribution reach or weaker brand positioning in multi-brand environments.
+
+Strategic Interpretation
+
+The brand’s retail strategy is heavily dependent on EBO stores, which suggests strong brand control but potentially higher operational costs.
+
+A balanced channel strategy could increase scalability and reach.
+
+5. Business Risk Assessment
+1. Geographic Risk
+
+High dependence on North Zone may expose the business to regional economic fluctuations.
+
+2. Channel Dependency
+
+Heavy reliance on EBO stores may increase operational expenses such as rent, staffing, and maintenance.
+
+3. Market Penetration Gap
+
+South, East, and North East zones show relatively low business contribution, indicating untapped markets.
+
+6. Growth Opportunities
+1. Regional Expansion
+
+Focus expansion strategies in:
+
+South India
+
+East India
+
+Tier-2 and Tier-3 cities
+
+2. Channel Diversification
+
+Strengthen:
+
+SIS partnerships with large retail chains
+
+MBO distribution network
+
+3. Market Development
+
+Increase:
+
+Local marketing campaigns
+
+Regional retail partnerships
+
+Customer engagement initiatives
+
+7. Key Strategic Recommendations
+
+1️⃣ Expand retail footprint outside North Zone to reduce geographic risk.
+
+2️⃣ Increase Shop-in-Shop partnerships with large retail stores to improve brand visibility.
+
+3️⃣ Improve MBO channel strategy through stronger dealer networks and incentives.
+
+4️⃣ Focus on high-growth states like Maharashtra, Gujarat, and Karnataka.
+
+5️⃣ Leverage data analytics and customer insights to optimize store location strategy.
+
+8. Conclusion
+
+The six-year business analysis clearly highlights that the company's growth has been primarily driven by North Zone markets and Exclusive Brand Outlet channels. While this strategy has delivered strong performance, the next phase of growth will depend on regional diversification and multi-channel retail expansion.
+
+Strategic investments in emerging markets and alternate retail channels could significantly enhance long-term revenue sustainability and market share.
