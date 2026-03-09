@@ -1,0 +1,83 @@
+I analyzed the data from your Excel file and prepared a Zonal, State, and Cube-wise Business Analysis based on the Grand Total sales (in Lacs). Below is a clear analytical summary that you can use in a report, presentation, or dashboard. 📊
+
+1️⃣ Zonal Wise Business Analysis
+Zone	Total Business (Lacs)
+North Zone	26487.07
+ZX (Pan-India)	3129.03
+West Zone	3031.38
+Central Zone	1442.09
+South Zone	922.96
+East Zone	922.03
+North East Zone	631.01
+Key Insights
+
+North Zone dominates the business, contributing the largest share of revenue.
+
+West Zone is the second strongest regional market.
+
+South, East, and North East zones show comparatively lower business contribution.
+
+ZX (Pan-India category) contributes significant centralized revenue.
+
+2️⃣ Top Performing States
+Rank	State	Zone	Sales (Lacs)
+1	Delhi	North Zone	7084.88
+2	Punjab	North Zone	5268.72
+3	Haryana	North Zone	3659.01
+4	Pan-India	ZX	3129.03
+5	Uttar Pradesh (West)	North Zone	2982.23
+6	Chandigarh	North Zone	2048.38
+7	Uttar Pradesh (East)	North Zone	1898.43
+8	Uttarakhand	North Zone	1624.75
+9	Rajasthan	West Zone	1443.07
+10	Maharashtra	West Zone	1161.70
+Key Insights
+
+Delhi is the highest revenue generating state.
+
+Punjab and Haryana are also strong markets.
+
+UP (West & East) together form a major business cluster.
+
+West zone states (Rajasthan & Maharashtra) show strong performance.
+
+3️⃣ Cube Wise Business Analysis
+
+Cube represents sales channel types:
+
+Cube Type	Sales (Lacs)
+EBO (Exclusive Brand Outlet)	17400.32
+SIS (Shop in Shop)	8754.01
+Others	6452.00
+LFS	3341.25
+MBO	618.00
+Insights
+
+EBO contributes the majority of total sales, showing strong brand outlet performance.
+
+SIS is the second strongest channel.
+
+MBO contributes the least, indicating lower performance or limited presence.
+
+4️⃣ Overall Business Insights
+
+✔ North Zone is the key revenue driver of the company.
+✔ Delhi, Punjab, and Haryana together form the strongest business cluster.
+✔ EBO channel dominates the sales structure.
+✔ SIS channel provides significant secondary revenue.
+✔ West Zone markets (Rajasthan, Maharashtra, Gujarat) show strong growth potential.
+
+5️⃣ Strategic Recommendations
+
+1️⃣ Expand EBO stores in high-performing markets like Delhi, Punjab, and Haryana.
+
+2️⃣ Increase SIS presence in developing markets such as South and East zones.
+
+3️⃣ Strengthen West Zone expansion due to rising demand.
+
+4️⃣ Improve MBO channel performance through partnerships and retail distribution.
+
+6️⃣ Suggested Dashboard for Presentation
+
+
+
